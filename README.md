@@ -1,1 +1,3 @@
 # Automated-Writing-Evaluation-GLM-NLP
+
+This repository hosts an open-source Automated Writing Evaluation (AWE) system, designed to offer equitable, cost-effective tools for educators and students by leveraging the largest open-access writing dataset. Addressing the limitations of previous AWE efforts, this project ensures broad access to essential educational resources. We've preprocessed the data and utilized the H2O framework, specifically the H2O Generalized Linear Model (GLM) estimator, to develop robust essay scoring algorithms. Our goal is to enhance essay scoring accuracy, providing timely feedback and support for diverse educational communities.
